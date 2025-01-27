@@ -1,0 +1,1 @@
+proc goodproc {x} { puts "$x" }
